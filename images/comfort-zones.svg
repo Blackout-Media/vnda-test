@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="812px" viewBox="0 0 375 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-167.000000, -1095.000000)">
+            <g id="Group-4" transform="translate(167.000000, 1095.000000)">
+                <rect id="Rectangle" fill="#F69679" x="0" y="0" width="375" height="812"></rect>
+                <path d="M172,122.185869 C223.986609,106.354937 291.653275,106.354937 375,122.185869 L375,702.213727 C373.763092,731.249516 363.648125,755.740809 344.655099,775.687605 C325.662073,795.634401 302.487633,807.738533 275.131779,812 L0,812 L0,312.277622 C14,216.204741 71.3333333,152.840823 172,122.185869 Z" id="Rectangle-Copy-2" fill="#F6D98E"></path>
+                <path d="M172,212.087763 C223.986609,197.725519 291.653275,201.03412 375,222.013566 L375,622 C375,726.934102 289.934102,812 185,812 L0,812 L0,812 L0,418.358877 C14,308.655794 71.3333333,239.898756 172,212.087763 Z" id="Rectangle" fill="#74D69B"></path>
+            </g>
+        </g>
+    </g>
+</svg>
