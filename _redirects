@@ -1,0 +1,2 @@
+/campaign /functions/redirect 200
+/:lang/* /:lang/index.html 200

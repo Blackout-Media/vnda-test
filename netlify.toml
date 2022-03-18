@@ -1,13 +1,2 @@
-[[redirects]]
-from = "/*"
-to = "https://clubevnda.com/:splat"
-status = 200
-force = true
-headers = {X-Variant = "first-thing"}
-
-[[redirects]]
-from = "/*"
-to = "/.netlify/functions/the-only-function"
-status = 200
-force = true
-headers = {X-Variant = "first-thing"}
+[functions]
+  directory = "functions"
