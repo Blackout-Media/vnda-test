@@ -1,2 +1,2 @@
-/*  https://vnda.co/:splat  200
-
+/campaign /functions/redirect 200
+/:lang/* /:lang/index.html 200
