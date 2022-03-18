@@ -8,11 +8,6 @@ exports.handler = async (event, context) => {
       Location: redirectUrl,
       'Cache-Control': 'no-cache',
     },
-    
-    body: JSON.stringify({
-
-
-    })
+    body: JSON.stringify({})
   }
-  console.log("baba");
 }
