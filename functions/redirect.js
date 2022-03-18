@@ -3,7 +3,7 @@ exports.handler = async function (event) {
   return {
       statusCode: 302,
       headers: {
-          "Location": "/?fb=" + FB_PIXEL + new URLSearchParams(event.queryStringParameters),
+          "Location": "/?fb=" + fb_pixel + new URLSearchParams(event.queryStringParameters),
       },
   };
 }
