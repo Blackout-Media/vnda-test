@@ -1,2 +1,2 @@
-/entrar.html /functions/redirect 200
+/entrar /functions/redirect 200
 /:lang/* /:lang/index.html 200
