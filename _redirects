@@ -1,2 +1,2 @@
-/campaign /functions/redirect 200
-/:lang/* /:lang/index.html 200
+/ /functions/redirect 200
+/* https://clubevnda.com/:splat 200

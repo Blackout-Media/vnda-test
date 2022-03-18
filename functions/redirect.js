@@ -1,9 +1,9 @@
 exports.handler = async function (event) {
-  const lang = event.queryStringParameters.state?.split("-")[0] ?? "en";
+  const fb_pixel = process.env.FB_PIXEL;
   return {
       statusCode: 302,
       headers: {
-          "Location": "/" + lang + event.path + "?" + new URLSearchParams(event.queryStringParameters),
+          "Location": "/?fb=" + FB_PIXEL + new URLSearchParams(event.queryStringParameters),
       },
   };
 }
